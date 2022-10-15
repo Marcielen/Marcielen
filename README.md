@@ -1,6 +1,6 @@
 ## Oiii eu sou a Marcielen Barbosa, Desenvolvedora web! 
 - 💻 Trabalhando na área de front-end
-- 📖 Estudando React e TypeScript
+- 📖 Estudando React, TypeScript e Next
 - ❤️ Apaixonada por tecnologia
 
 <div>
