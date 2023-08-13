@@ -1,6 +1,6 @@
 ## Oiii eu sou a Marcielen Barbosa, Desenvolvedora web! 
 - 💻 Trabalhando na área de front-end
-- 📖 Skills: React, TypeScript, Next, Cypress e Vite
+- 📖 Skills: React, Node, TypeScript, Next, Cypress e Vite
 - ❤️ Apaixonada por tecnologia
 
 <div style="display: flex">
